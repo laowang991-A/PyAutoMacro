@@ -13,4 +13,4 @@
 运行前请确保安装了以下 Python 库：终端命令行下载
 ```bash
 pip install pynput pyautogui
-
+兼容性说明：本工具仅支持 Windows 及带图形界面的桌面系统，不支持 Android/iOS 等移动端，亦不适用于无图形界面的纯命令行服务器。
