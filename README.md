@@ -10,7 +10,7 @@
 - 【Esc】紧急停止：随时打断，安全退出。
 
 ## 环境依赖
-运行前请确保安装了以下 Python 库：
+运行前请确保安装了以下 Python 库：终端命令行下载
 ```bash
 pip install pynput pyautogui
 
