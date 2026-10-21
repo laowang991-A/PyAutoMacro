@@ -14,3 +14,8 @@
 ```bash
 pip install pynput pyautogui
 兼容性说明：本工具仅支持 Windows 及带图形界面的桌面系统，不支持 Android/iOS 等移动端，亦不适用于无图形界面的纯命令行服务器。
+启动程序
+按 Win + R，输入 cmd 弹出黑色窗口。（或者直接进入文件夹目录，上面直接cmd进入终端）
+在窗口里输入 cd Desktop\MacroTest（意思是进入你桌面的那个文件夹），按回车。
+输入 python macro.py 然后按回车。
+出现页面即开始运行
